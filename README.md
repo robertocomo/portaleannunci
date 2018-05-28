@@ -182,148 +182,136 @@ sviluppato.
 >opzionali di filtraggio una Categoria fra quelle modellate dal sistema
 >ed un range di prezzo minimo e massimo.
 
-## Stakeholder Requests & Needs
->
->    15. Meccanismo di registrazione al sistema
->
->    16. Un Utente Registrato deve aver inserito il proprio nome,
->        cognome, email personale e una password
->
->    17. Un Produttore per potersi registrare nel sistema deve aver
->        inserito il proprio codice fiscale o partita iva
->
->    18. Meccanismo di autenticazione al sistema tramite delle
->        credenziali di accesso personali
->
->    19. Un Utente Registrato deve potersi autenticare mediante il
->        proprio indirizzo email e la password scelti in fase di
->        registrazione
->
->    20. Si deve poter creare ed inserire un nuovo Annuncio nel sistema
->
->    21. Solo un utente Produttore può inserire nuovo Annuncio nel
->        sistema
->
->    22. Un utente Produttore deve poter modificare un proprio Annuncio
->
->    23. Un utente Produttore deve poter eliminare un proprio Annuncio
->
->    24. Un Annuncio deve essere individuabile in modo univoco
->
->    25. Un Annuncio deve avere uno Stato associato previsto dal Sistema
->
->    26. Un Annuncio è in stato privato deve essere visualizzabile
->        esclusivamente dall'utente Produttore che lo ha creato
->
->   27. Un Annuncio deve avere una Categoria associata modellata dal
-        sistema
+## **Stakeholder Requests & Needs**
 
-    28. Le possibili categorie dovranno essere "Abbigliamento",
-        "Arredamento", "Creatività", "Elettronica", "Libri", "Musica"
+        1.  Meccanismo di registrazione al sistema
 
-    29. Si deve poter ricercare gli Annunci presenti nel sistema
-        inserendo una chiave di ricerca per il titolo o per la
-        descrizione
+        2.  Un Utente Registrato deve aver inserito il proprio nome, cognome, email
+        personale e una password
 
-    30. La funzionalità di ricerca deve essere accessibile anche ai
-        Visitatori
+    3.  Un Produttore per potersi registrare nel sistema deve aver inserito il
+        proprio codice fiscale o partita iva
 
-    31. Deve essere implementata una funzionalità di ricerca avanzata
-        per gli utenti Consumatori limitando i risultati per fascia di
-        prezzo
+    4.  Meccanismo di autenticazione al sistema tramite delle credenziali di
+        accesso personali
 
-    32. Eseguendo una ricerca avanzata deve essere possibile ordinare i
+    5.  Un Utente Registrato deve potersi autenticare mediante il proprio
+        indirizzo email e la password scelti in fase di registrazione
+
+    6.  Si deve poter creare ed inserire un nuovo Annuncio nel sistema
+
+    7.  Solo un utente Produttore può inserire nuovo Annuncio nel sistema
+
+    8.  Un utente Produttore deve poter modificare un proprio Annuncio
+
+    9.  Un utente Produttore deve poter eliminare un proprio Annuncio
+
+    10. Un Annuncio deve essere individuabile in modo univoco
+
+    11. Un Annuncio deve avere uno Stato associato previsto dal Sistema
+
+    12. Un Annuncio è in stato privato deve essere visualizzabile esclusivamente
+        dall’utente Produttore che lo ha creato
+
+    13. Un Annuncio deve avere una Categoria associata modellata dal sistema
+
+    14. Le possibili categorie dovranno essere “Abbigliamento”, “Arredamento”,
+        “Creatività”, “Elettronica”, “Libri”, “Musica”
+
+    15. Si deve poter ricercare gli Annunci presenti nel sistema inserendo una
+        chiave di ricerca per il titolo o per la descrizione
+
+    16. La funzionalità di ricerca deve essere accessibile anche ai Visitatori
+
+    17. Deve essere implementata una funzionalità di ricerca avanzata per gli
+        utenti Consumatori limitando i risultati per fascia di prezzo
+
+    18. Eseguendo una ricerca avanzata deve essere possibile ordinare i
         risultati
 
-    33. La possibilità di ispezionare e guardare i dettagli di un
-        Annuncio deve essere limitata agli utenti di tipo Consumatore
+    19. La possibilità di ispezionare e guardare i dettagli di un Annuncio deve
+        essere limitata agli utenti di tipo Consumatore
 
-    34. Un utente Consumatore deve poter inserire nel proprio account
-        uno o più Indirizzi di Spedizione che saranno usati in fase di
-        Acquisto
+    20. Un utente Consumatore deve poter inserire nel proprio account uno o più
+        Indirizzi di Spedizione che saranno usati in fase di Acquisto
 
-    35. L'acquisto di un Annuncio, creando un Ordine, deve essere
-        limitata esclusivamente agli utenti Consumatori
+    21. L’acquisto di un Annuncio, creando un Ordine, deve essere limitata
+        esclusivamente agli utenti Consumatori
 
-    36. Se un utente Consumatore non ha inserito alcun Indirizzo di
-        Spedizione non può effettuare un Acquisto
+    22. Se un utente Consumatore non ha inserito alcun Indirizzo di Spedizione
+        non può effettuare un Acquisto
 
-    37. Un utente Consumatore deve poter visualizzare l'elenco dei
-        propri Acquisti effettuati e dunque Ordini associati
+    23. Un utente Consumatore deve poter visualizzare l’elenco dei propri
+        Acquisti effettuati e dunque Ordini associati
 
-    38. Un utente Produttore deve poter visualizzare l'elenco dei propri
-        Ordini ricevuti relativi ad Acquisti di propri Annunci
+    24. Un utente Produttore deve poter visualizzare l’elenco dei propri Ordini
+        ricevuti relativi ad Acquisti di propri Annunci
 
-    39. Le informazioni dell'Annuncio associato ad un Ordine devono
-        essere conservate in modo definitivo e consistente
+    25. Le informazioni dell’Annuncio associato ad un Ordine devono essere
+        conservate in modo definitivo e consistente
 
-    40. Un utente Consumatore può effettuare Acquisti di Annunci
-        effettivamente presenti nel sistema
+    26. Un utente Consumatore può effettuare Acquisti di Annunci effettivamente
+        presenti nel sistema
 
-    41. Il sistema deve essere sviluppato e scritto in linguaggio Java
+    27. Il sistema deve essere sviluppato e scritto in linguaggio Java
 
-    42. L'interazione con il sistema da parte di tutti gli utilizzatori
-        finali dovrà essere tramite funzionalità accessibile come web
-        applicazion
+    28. L’interazione con il sistema da parte di tutti gli utilizzatori finali
+        dovrà essere tramite funzionalità accessibile come web applicazion
 
-    43. La web application deve essere sviluppata in modo responsive e
-        dunque essere usufruibile da qualsiasi dispositivo di accesso
-        web
+    29. La web application deve essere sviluppata in modo responsive e dunque
+        essere usufruibile da qualsiasi dispositivo di accesso web
 
-5.  **Features**
+2.  **Features**
 
-    44. Il sistema deve consentire la registrazione allo stesso da parte
-        di tipologie di utenti Consumatore e Produttore
+    1.  Il sistema deve consentire la registrazione allo stesso da parte di
+        tipologie di utenti Consumatore e Produttore
 
-    45. Il sistema deve consentire l\'autenticazione allo stesso da
-        parte di tipologie di utenti Consumatore e Produttore
+    2.  Il sistema deve consentire l'autenticazione allo stesso da parte di
+        tipologie di utenti Consumatore e Produttore
 
-    46. Il sistema deve consentire ad una tipologia di utente Produttore
-        di creare, modificare ed eliminare i propri Annunci.
+    3.  Il sistema deve consentire ad una tipologia di utente Produttore di
+        creare, modificare ed eliminare i propri Annunci.
 
-    47. Il sistema deve consentire di impostare un Annuncio nello stato
-        di Privato, tale che non sia né acquistabile né consultabile
+    4.  Il sistema deve consentire di impostare un Annuncio nello stato di
+        Privato, tale che non sia né acquistabile né consultabile
 
-    48. Il sistema deve consentire l\'ispezione di un Annuncio pubblico
+    5.  Il sistema deve consentire l'ispezione di un Annuncio pubblico
         esclusivamente alla tipologia di utenti Consumatore
 
-    49. Il sistema deve consentire l\'acquisto completo o parziale degli
-        Annunci esclusivamente da parte di Consumatori che abbiano
-        associato almeno un Indirizzo di Spedizione
+    6.  Il sistema deve consentire l'acquisto completo o parziale degli Annunci
+        esclusivamente da parte di Consumatori che abbiano associato almeno un
+        Indirizzo di Spedizione
 
-    50. Il sistema deve permettere ad un qualsiasi utente di effettuare
-        una ricerca fra gli Annunci specificando una parola chiave ed
-        una categoria opzionale
+    7.  Il sistema deve permettere ad un qualsiasi utente di effettuare una
+        ricerca fra gli Annunci specificando una parola chiave ed una categoria
+        opzionale
 
-    51. Il sistema deve permettere ad un Utente Registrato nel sistema
-        di effettuare una ricerca avanzata degli Annunci, specificando
-        un prezzo minimo e massimo
+    8.  Il sistema deve permettere ad un Utente Registrato nel sistema di
+        effettuare una ricerca avanzata degli Annunci, specificando un prezzo
+        minimo e massimo
 
-    52. Il sistema deve permettere ad una tipologia di utente
-        Consumatore di inserire o modificare un Indirizzo di Spedizione
-        associato, creando una propria rubrica di Indirizzi di
-        Spedizione
+    9.  Il sistema deve permettere ad una tipologia di utente Consumatore di
+        inserire o modificare un Indirizzo di Spedizione associato, creando una
+        propria rubrica di Indirizzi di Spedizione
 
-    53. Il sistema deve permettere ad una tipologia di utente Produttore
-        di modificare un proprio Annuncio che abbia già un ordine
-        associato
+    10. Il sistema deve permettere ad una tipologia di utente Produttore di
+        modificare un proprio Annuncio che abbia già un ordine associato
 
-    54. Il sistema deve prevedere che un utente Produttore abbia
-        inserito il proprio codice fiscale o partiva iva in fase di
-        registrazione
+    11. Il sistema deve prevedere che un utente Produttore abbia inserito il
+        proprio codice fiscale o partiva iva in fase di registrazione
 
-    55. Il sistema deve permettere ad una tipologia di utente
-        Consumatore di visualizzare tutti i propri Ordini effettuati
+    12. Il sistema deve permettere ad una tipologia di utente Consumatore di
+        visualizzare tutti i propri Ordini effettuati
 
-    56. Il sistema deve prevedere meccanismi di consistenza in caso un
-        Annuncio venga modificato durante una fase di acquisto da parte
-        di un utente Consumatore
+    13. Il sistema deve prevedere meccanismi di consistenza in caso un Annuncio
+        venga modificato durante una fase di acquisto da parte di un utente
+        Consumatore
 
-    57. Il sistema deve permettere ad una tipologia di utente Produttore
-        di visualizzare tutti i propri Ordini ricevuti
+    14. Il sistema deve permettere ad una tipologia di utente Produttore di
+        visualizzare tutti i propri Ordini ricevuti
 
-    58. Il sistema deve permettere ad una tipologia di utente Produttore
-        di modificare lo stato di un Ordine riguardo la spedizione
+    15. Il sistema deve permettere ad una tipologia di utente Produttore di
+        modificare lo stato di un Ordine riguardo la spedizione
 
-    59. Il sistema deve consentire ad un Consumatore di accedere alle
-        informazioni dell\'Annuncio associato ad un Ordine effettuato
+    16. Il sistema deve consentire ad un Consumatore di accedere alle
+        informazioni dell'Annuncio associato ad un Ordine effettuato
