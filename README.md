@@ -101,9 +101,11 @@ sviluppato.
 >dunque sia correttamente autenticato sulla stessa mediante proprie
 >credenziali di registrazione.
 
+
 4.  **Registrazione**
 >Procedura con la quale un Visitatore si registra alla piattaforma
 >scegliendo un ruolo, diventandone dunque parte integrante.
+
 
 5.  **Utente Registrato**
 >Rappresenta una persona che ha eseguito con successo la Registrazione al
@@ -112,13 +114,15 @@ sviluppato.
 >Possiede delle proprie credenziali di accesso alla piattaforma e dunque
 >ne è parte integrante.
 
+
 6.  **Produttore**
 >Rappresenta una tipologia di Utente Registrato il quale ha accesso
 >esclusivo alla funzionalità di sottomissione di Annunci di vendita
 >personali, nonché gestione degli Ordini relativi ad Annunci
 >precedentemente inseriti.
 
->7.  **Consumatore**
+
+7.  **Consumatore**
 >
 >Rappresenta una tipologia di Utente Registrato il quale ha accesso
 >esclusivo alla funzionalità Acquisto di un Annuncio presente nel sistema
