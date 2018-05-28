@@ -1,8 +1,8 @@
-#Portale Annunci
+# Portale Annunci
 
-**Vision**
 
-1.  **Introduzione**
+
+## Introduzione
 
 Questo documento di visione ha lo scopo di presentare, analizzare e definire il
 progetto Portale Annunci.
