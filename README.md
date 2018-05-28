@@ -184,16 +184,16 @@ sviluppato.
 
 ## **Stakeholder Requests & Needs**
 
-        1.  Meccanismo di registrazione al sistema
+   1.  Meccanismo di registrazione al sistema
 
-        2.  Un Utente Registrato deve aver inserito il proprio nome, cognome, email
+   2.  Un Utente Registrato deve aver inserito il proprio nome, cognome, email
         personale e una password
 
-    3.  Un Produttore per potersi registrare nel sistema deve aver inserito il
-        proprio codice fiscale o partita iva
-
-    4.  Meccanismo di autenticazione al sistema tramite delle credenziali di
-        accesso personali
+>    3.  Un Produttore per potersi registrare nel sistema deve aver inserito il
+>        proprio codice fiscale o partita iva
+>
+ >   4.  Meccanismo di autenticazione al sistema tramite delle credenziali di
+ >       accesso personali
 
     5.  Un Utente Registrato deve potersi autenticare mediante il proprio
         indirizzo email e la password scelti in fase di registrazione
