@@ -1,18 +1,18 @@
-**Portale Annunci**
+# Portale Annunci
 
-**Vision**
 
-1.  **Introduzione**
 
-Questo documento di visione ha lo scopo di presentare, analizzare e
-definire il progetto Portale Annunci.
+## Introduzione
 
-Nel seguente documento è dettagliato lo scopo del progetto, i suoi
-obiettivi nonché posizionamento, gli stakeholder e tipologie di
-utilizzatori finali coinvolti ed interessati, associate alle esigenze
-primarie che questi hanno espresso in fase di definizione del progetto e
-alle relative funzionalità identificate e concordate facenti parte del
-sistema software commissionato e sviluppato.
+Questo documento di visione ha lo scopo di presentare, analizzare e definire il
+progetto Portale Annunci.
+
+Nel seguente documento è dettagliato lo scopo del progetto, i suoi obiettivi
+nonché posizionamento, gli stakeholder e tipologie di utilizzatori finali
+coinvolti ed interessati, associate alle esigenze primarie che questi hanno
+espresso in fase di definizione del progetto e alle relative funzionalità
+identificate e concordate facenti parte del sistema software commissionato e
+sviluppato.
 
 2.  **Posizionamento**
 
