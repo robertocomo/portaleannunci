@@ -93,8 +93,8 @@ sviluppato.
 >    di collaborazioni e sponsorizzazioni derivanti dal patrimonio di
 >    marca ovverosia dall'affermazione del valore dell'asset immateriale
 >    del brand Portale Annunci.
-
 \
+
 ##  **Glossario**
 
 3.  **Utente o Visitatore**
@@ -123,7 +123,7 @@ sviluppato.
 >personali, nonché gestione degli Ordini relativi ad Annunci
 >precedentemente inseriti.
 
-
+\
 7.  **Consumatore**
 >
 >Rappresenta una tipologia di Utente Registrato il quale ha accesso
@@ -131,6 +131,7 @@ sviluppato.
 >e finalizzazione di un Ordine, potendo dunque accedere alle informazioni
 >associate a quest'ultimo.
 
+\
 8.  **Annuncio**
 >
 >Rappresenta un'astrazione del bene messo in vendita all'interno della
@@ -140,17 +141,20 @@ sviluppato.
 >modellata dalla piattaforma, uno Stato modellato dalla piattaforma ed
 >una foto descrittiva.
 
+\
 9.  **Stato Annuncio**
 >Rappresenta una etichetta di stato associata ad un Annuncio presente nel
 >sistema, che a seconda del suo valore modellato discrimina e filtra le
 >funzionalità associate o relative a quell'Annuncio.
 
+\
 10. **Acquisto**
 >
 >Procedura con la quale un utente di tipo Consumatore può finalizzare
 >l'acquisto di un Annuncio presente nel sistema, sottomettendo un nuovo
 >Ordine.
 
+\
 11. **Ordine**
 >
 >Rappresenta un'astrazione derivante da un Acquisto effettuato da parte
@@ -159,6 +163,7 @@ sviluppato.
 >complessivo, la data di sottomissione e l'Indirizzo di Spedizione
 >associato.
 
+\
 12. **Indirizzo di Spedizione**
 >
 >Rappresenta e modella le informazioni inserite da un utente di tipo
@@ -174,6 +179,7 @@ sviluppato.
 >titolo di un Annuncio o nella sua descrizione, ed opzionalmente una
 >Categoria di filtraggio fra quelle modellate dal sistema.
 
+\
 14. **Ricerca Avanzata**
 >
 >Procedura con la quale deve essere possibile poter effettuare una
@@ -183,6 +189,7 @@ sviluppato.
 >titolo di un Annuncio o nella sua descrizione, ed come parametri
 >opzionali di filtraggio una Categoria fra quelle modellate dal sistema
 >ed un range di prezzo minimo e massimo.
+\
 
 ## **Stakeholder Requests & Needs**
 
@@ -263,6 +270,7 @@ sviluppato.
 >    29. La web application deve essere sviluppata in modo responsive e dunque
 >        essere usufruibile da qualsiasi dispositivo di accesso web
 >
+\
 
 ##   **Features**
 
