@@ -271,7 +271,7 @@ sviluppato.
 >    29. La web application deve essere sviluppata in modo responsive e dunque
 >        essere usufruibile da qualsiasi dispositivo di accesso web
 >
-\
+
 
 ##   **Features**
 
