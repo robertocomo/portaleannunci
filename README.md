@@ -129,7 +129,7 @@ sviluppato.
 >e finalizzazione di un Ordine, potendo dunque accedere alle informazioni
 >associate a quest'ultimo.
 
->8.  **Annuncio**
+8.  **Annuncio**
 >
 >Rappresenta un'astrazione del bene messo in vendita all'interno della
 >piattaforma da un utente Produttore. È principalmente caratterizzato da
@@ -138,19 +138,18 @@ sviluppato.
 >modellata dalla piattaforma, uno Stato modellato dalla piattaforma ed
 >una foto descrittiva.
 
->9.  **Stato Annuncio**
-
+9.  **Stato Annuncio**
 >Rappresenta una etichetta di stato associata ad un Annuncio presente nel
 >sistema, che a seconda del suo valore modellato discrimina e filtra le
 >funzionalità associate o relative a quell'Annuncio.
 
->10. **Acquisto**
+10. **Acquisto**
 >
 >Procedura con la quale un utente di tipo Consumatore può finalizzare
 >l'acquisto di un Annuncio presente nel sistema, sottomettendo un nuovo
 >Ordine.
 
->11. **Ordine**
+11. **Ordine**
 >
 >Rappresenta un'astrazione derivante da un Acquisto effettuato da parte
 >di un Consumatore, modellando le informazioni riguardanti l'Annuncio
@@ -158,13 +157,13 @@ sviluppato.
 >complessivo, la data di sottomissione e l'Indirizzo di Spedizione
 >associato.
 
->12. **Indirizzo di Spedizione**
+12. **Indirizzo di Spedizione**
 >
 >Rappresenta e modella le informazioni inserite da un utente di tipo
 >Consumatore sull'effettivo concreto nominativo ed indirizzo geografico
 >al quale un Ordine dovrà essere spedito da parte dell'utente Produttore.
 
->13. **Ricerca**
+13. **Ricerca**
 >
 >Procedura con la quale deve essere possibile poter effettuare una
 >ricerca fra tutti gli Annunci presenti nel sistema, indicando
@@ -173,7 +172,7 @@ sviluppato.
 >titolo di un Annuncio o nella sua descrizione, ed opzionalmente una
 >Categoria di filtraggio fra quelle modellate dal sistema.
 
->14. **Ricerca Avanzata**
+14. **Ricerca Avanzata**
 >
 >Procedura con la quale deve essere possibile poter effettuare una
 >ricerca fra tutti gli Annunci presenti nel sistema, indicando
@@ -183,7 +182,7 @@ sviluppato.
 >opzionali di filtraggio una Categoria fra quelle modellate dal sistema
 >ed un range di prezzo minimo e massimo.
 
->4.  **Stakeholder Requests & Needs**
+## Stakeholder Requests & Needs
 >
 >    15. Meccanismo di registrazione al sistema
 >
@@ -195,28 +194,28 @@ sviluppato.
 >
 >    18. Meccanismo di autenticazione al sistema tramite delle
 >        credenziali di accesso personali
-
-    19. Un Utente Registrato deve potersi autenticare mediante il
-        proprio indirizzo email e la password scelti in fase di
-        registrazione
-
-    20. Si deve poter creare ed inserire un nuovo Annuncio nel sistema
-
-    21. Solo un utente Produttore può inserire nuovo Annuncio nel
-        sistema
-
-    22. Un utente Produttore deve poter modificare un proprio Annuncio
-
-    23. Un utente Produttore deve poter eliminare un proprio Annuncio
-
-    24. Un Annuncio deve essere individuabile in modo univoco
-
-    25. Un Annuncio deve avere uno Stato associato previsto dal Sistema
-
-    26. Un Annuncio è in stato privato deve essere visualizzabile
-        esclusivamente dall'utente Produttore che lo ha creato
-
-    27. Un Annuncio deve avere una Categoria associata modellata dal
+>
+>    19. Un Utente Registrato deve potersi autenticare mediante il
+>        proprio indirizzo email e la password scelti in fase di
+>        registrazione
+>
+>    20. Si deve poter creare ed inserire un nuovo Annuncio nel sistema
+>
+>    21. Solo un utente Produttore può inserire nuovo Annuncio nel
+>        sistema
+>
+>    22. Un utente Produttore deve poter modificare un proprio Annuncio
+>
+>    23. Un utente Produttore deve poter eliminare un proprio Annuncio
+>
+>    24. Un Annuncio deve essere individuabile in modo univoco
+>
+>    25. Un Annuncio deve avere uno Stato associato previsto dal Sistema
+>
+>    26. Un Annuncio è in stato privato deve essere visualizzabile
+>        esclusivamente dall'utente Produttore che lo ha creato
+>
+>   27. Un Annuncio deve avere una Categoria associata modellata dal
         sistema
 
     28. Le possibili categorie dovranno essere "Abbigliamento",
