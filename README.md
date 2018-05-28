@@ -96,19 +96,19 @@ sviluppato.
 ##  **Glossario**
 
 >3.  **Utente o Visitatore**
->
+
 >Un Visitatore, od altresì definito Utente, rappresenta un utilizzatore
 >del sistema o della piattaforma senza che questo ne faccia parte e che
 >dunque sia correttamente autenticato sulla stessa mediante proprie
 >credenziali di registrazione.
 
 >4.  **Registrazione**
->
+
 >Procedura con la quale un Visitatore si registra alla piattaforma
 >scegliendo un ruolo, diventandone dunque parte integrante.
 
 >5.  **Utente Registrato**
->
+
 >Rappresenta una persona che ha eseguito con successo la Registrazione al
 >sistema inserendo le informazioni richieste.
 >
