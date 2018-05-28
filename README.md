@@ -73,25 +73,25 @@ sviluppato.
 > offerta di annunci di vendita, le quali possono essere classificate in
 > tre macro categorie:
 
--   Prevedere che la piattaforma o parte di essa o delle funzionalità
-    siano accessibili previo pagamento, che a sua volta può essere di
-    tipologia una tantum per utente o tramite sottoscrizione di una
-    quota rinnovabile nel tempo.
-
--   Prevedere commissioni direttamente applicate, in via unitaria o
-    percentuale, sulla compravendita degli Annunci presenti nella
-    piattaforma e addebitate ad una tipologia di Utente.
-
--   Inserire nella piattaforma un sistema di banner pubblicitari,
-    statici ovvero relazionati all'accesso o utilizzo di specifiche
-    funzionalità, aderendo ad un circuito di affiliazione di società
-    terze in grado di generare ricavi a seguito di visualizzazione o
-    apertura del banner pubblicitario.
-
--   Ricavi indiretti, ed eventualmente postumi, scaturiti da un indotto
-    di collaborazioni e sponsorizzazioni derivanti dal patrimonio di
-    marca ovverosia dall'affermazione del valore dell'asset immateriale
-    del brand Portale Annunci.
+>-   Prevedere che la piattaforma o parte di essa o delle funzionalità
+>    siano accessibili previo pagamento, che a sua volta può essere di
+>    tipologia una tantum per utente o tramite sottoscrizione di una
+>    quota rinnovabile nel tempo.
+>
+>-   Prevedere commissioni direttamente applicate, in via unitaria o
+>    percentuale, sulla compravendita degli Annunci presenti nella
+>    piattaforma e addebitate ad una tipologia di Utente.
+>
+>-   Inserire nella piattaforma un sistema di banner pubblicitari,
+>    statici ovvero relazionati all'accesso o utilizzo di specifiche
+>    funzionalità, aderendo ad un circuito di affiliazione di società
+>    terze in grado di generare ricavi a seguito di visualizzazione o
+>    apertura del banner pubblicitario.
+>
+>-   Ricavi indiretti, ed eventualmente postumi, scaturiti da un indotto
+>    di collaborazioni e sponsorizzazioni derivanti dal patrimonio di
+>    marca ovverosia dall'affermazione del valore dell'asset immateriale
+>    del brand Portale Annunci.
 
 3.  **Glossario**
 
