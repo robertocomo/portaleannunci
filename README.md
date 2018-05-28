@@ -101,12 +101,12 @@ sviluppato.
 >del sistema o della piattaforma senza che questo ne faccia parte e che
 >dunque sia correttamente autenticato sulla stessa mediante proprie
 >credenziali di registrazione.
->
+
 >4.  **Registrazione**
 >
 >Procedura con la quale un Visitatore si registra alla piattaforma
 >scegliendo un ruolo, diventandone dunque parte integrante.
->
+
 >5.  **Utente Registrato**
 >
 >Rappresenta una persona che ha eseguito con successo la Registrazione al
@@ -129,72 +129,72 @@ sviluppato.
 >e finalizzazione di un Ordine, potendo dunque accedere alle informazioni
 >associate a quest'ultimo.
 
-8.  **Annuncio**
+>8.  **Annuncio**
+>
+>Rappresenta un'astrazione del bene messo in vendita all'interno della
+>piattaforma da un utente Produttore. È principalmente caratterizzato da
+>un nome, una descrizione del bene venduto, un valore rappresentante la
+>quantità disponibile, il prezzo di vendita, una Categoria prevista e
+>modellata dalla piattaforma, uno Stato modellato dalla piattaforma ed
+>una foto descrittiva.
 
-Rappresenta un'astrazione del bene messo in vendita all'interno della
-piattaforma da un utente Produttore. È principalmente caratterizzato da
-un nome, una descrizione del bene venduto, un valore rappresentante la
-quantità disponibile, il prezzo di vendita, una Categoria prevista e
-modellata dalla piattaforma, uno Stato modellato dalla piattaforma ed
-una foto descrittiva.
+>9.  **Stato Annuncio**
 
-9.  **Stato Annuncio**
+>Rappresenta una etichetta di stato associata ad un Annuncio presente nel
+>sistema, che a seconda del suo valore modellato discrimina e filtra le
+>funzionalità associate o relative a quell'Annuncio.
 
-Rappresenta una etichetta di stato associata ad un Annuncio presente nel
-sistema, che a seconda del suo valore modellato discrimina e filtra le
-funzionalità associate o relative a quell'Annuncio.
+>10. **Acquisto**
+>
+>Procedura con la quale un utente di tipo Consumatore può finalizzare
+>l'acquisto di un Annuncio presente nel sistema, sottomettendo un nuovo
+>Ordine.
 
-10. **Acquisto**
+>11. **Ordine**
+>
+>Rappresenta un'astrazione derivante da un Acquisto effettuato da parte
+>di un Consumatore, modellando le informazioni riguardanti l'Annuncio
+>acquistato, la quantità acquistata, il prezzo di acquisto ed importo
+>complessivo, la data di sottomissione e l'Indirizzo di Spedizione
+>associato.
 
-Procedura con la quale un utente di tipo Consumatore può finalizzare
-l'acquisto di un Annuncio presente nel sistema, sottomettendo un nuovo
-Ordine.
+>12. **Indirizzo di Spedizione**
+>
+>Rappresenta e modella le informazioni inserite da un utente di tipo
+>Consumatore sull'effettivo concreto nominativo ed indirizzo geografico
+>al quale un Ordine dovrà essere spedito da parte dell'utente Produttore.
 
-11. **Ordine**
+>13. **Ricerca**
+>
+>Procedura con la quale deve essere possibile poter effettuare una
+>ricerca fra tutti gli Annunci presenti nel sistema, indicando
+>obbligatoriamente una chiave testuale di ricerca, la quale dovrà
+>correlare ed individuare eventuali parole corrispondenti contenute nel
+>titolo di un Annuncio o nella sua descrizione, ed opzionalmente una
+>Categoria di filtraggio fra quelle modellate dal sistema.
 
-Rappresenta un'astrazione derivante da un Acquisto effettuato da parte
-di un Consumatore, modellando le informazioni riguardanti l'Annuncio
-acquistato, la quantità acquistata, il prezzo di acquisto ed importo
-complessivo, la data di sottomissione e l'Indirizzo di Spedizione
-associato.
+>14. **Ricerca Avanzata**
+>
+>Procedura con la quale deve essere possibile poter effettuare una
+>ricerca fra tutti gli Annunci presenti nel sistema, indicando
+>obbligatoriamente una chiave testuale di ricerca, la quale dovrà
+>correlare ed individuare eventuali parole corrispondenti contenute nel
+>titolo di un Annuncio o nella sua descrizione, ed come parametri
+>opzionali di filtraggio una Categoria fra quelle modellate dal sistema
+>ed un range di prezzo minimo e massimo.
 
-12. **Indirizzo di Spedizione**
-
-Rappresenta e modella le informazioni inserite da un utente di tipo
-Consumatore sull'effettivo concreto nominativo ed indirizzo geografico
-al quale un Ordine dovrà essere spedito da parte dell'utente Produttore.
-
-13. **Ricerca**
-
-Procedura con la quale deve essere possibile poter effettuare una
-ricerca fra tutti gli Annunci presenti nel sistema, indicando
-obbligatoriamente una chiave testuale di ricerca, la quale dovrà
-correlare ed individuare eventuali parole corrispondenti contenute nel
-titolo di un Annuncio o nella sua descrizione, ed opzionalmente una
-Categoria di filtraggio fra quelle modellate dal sistema.
-
-14. **Ricerca Avanzata**
-
-Procedura con la quale deve essere possibile poter effettuare una
-ricerca fra tutti gli Annunci presenti nel sistema, indicando
-obbligatoriamente una chiave testuale di ricerca, la quale dovrà
-correlare ed individuare eventuali parole corrispondenti contenute nel
-titolo di un Annuncio o nella sua descrizione, ed come parametri
-opzionali di filtraggio una Categoria fra quelle modellate dal sistema
-ed un range di prezzo minimo e massimo.
-
-4.  **Stakeholder Requests & Needs**
-
-    15. Meccanismo di registrazione al sistema
-
-    16. Un Utente Registrato deve aver inserito il proprio nome,
-        cognome, email personale e una password
-
-    17. Un Produttore per potersi registrare nel sistema deve aver
-        inserito il proprio codice fiscale o partita iva
-
-    18. Meccanismo di autenticazione al sistema tramite delle
-        credenziali di accesso personali
+>4.  **Stakeholder Requests & Needs**
+>
+>    15. Meccanismo di registrazione al sistema
+>
+>    16. Un Utente Registrato deve aver inserito il proprio nome,
+>        cognome, email personale e una password
+>
+>    17. Un Produttore per potersi registrare nel sistema deve aver
+>        inserito il proprio codice fiscale o partita iva
+>
+>    18. Meccanismo di autenticazione al sistema tramite delle
+>        credenziali di accesso personali
 
     19. Un Utente Registrato deve potersi autenticare mediante il
         proprio indirizzo email e la password scelti in fase di
