@@ -14,7 +14,7 @@ espresso in fase di definizione del progetto e alle relative funzionalità
 identificate e concordate facenti parte del sistema software commissionato e
 sviluppato.
 
-2.  **Posizionamento**
+## Posizionamento
 
     1.  **Scopo del Progetto**
 
