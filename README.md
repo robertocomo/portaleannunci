@@ -262,57 +262,56 @@ sviluppato.
 >        essere usufruibile da qualsiasi dispositivo di accesso web
 >
 
-2.  **Features**
+##   **Features**
 
-    1.  Il sistema deve consentire la registrazione allo stesso da parte di
-        tipologie di utenti Consumatore e Produttore
-
-    2.  Il sistema deve consentire l'autenticazione allo stesso da parte di
-        tipologie di utenti Consumatore e Produttore
-
-    3.  Il sistema deve consentire ad una tipologia di utente Produttore di
-        creare, modificare ed eliminare i propri Annunci.
-
-    4.  Il sistema deve consentire di impostare un Annuncio nello stato di
-        Privato, tale che non sia né acquistabile né consultabile
-
-    5.  Il sistema deve consentire l'ispezione di un Annuncio pubblico
-        esclusivamente alla tipologia di utenti Consumatore
-
-    6.  Il sistema deve consentire l'acquisto completo o parziale degli Annunci
-        esclusivamente da parte di Consumatori che abbiano associato almeno un
-        Indirizzo di Spedizione
-
-    7.  Il sistema deve permettere ad un qualsiasi utente di effettuare una
-        ricerca fra gli Annunci specificando una parola chiave ed una categoria
-        opzionale
-
-    8.  Il sistema deve permettere ad un Utente Registrato nel sistema di
-        effettuare una ricerca avanzata degli Annunci, specificando un prezzo
-        minimo e massimo
-
-    9.  Il sistema deve permettere ad una tipologia di utente Consumatore di
-        inserire o modificare un Indirizzo di Spedizione associato, creando una
-        propria rubrica di Indirizzi di Spedizione
-
-    10. Il sistema deve permettere ad una tipologia di utente Produttore di
-        modificare un proprio Annuncio che abbia già un ordine associato
-
-    11. Il sistema deve prevedere che un utente Produttore abbia inserito il
-        proprio codice fiscale o partiva iva in fase di registrazione
-
-    12. Il sistema deve permettere ad una tipologia di utente Consumatore di
-        visualizzare tutti i propri Ordini effettuati
-
-    13. Il sistema deve prevedere meccanismi di consistenza in caso un Annuncio
-        venga modificato durante una fase di acquisto da parte di un utente
-        Consumatore
-
-    14. Il sistema deve permettere ad una tipologia di utente Produttore di
-        visualizzare tutti i propri Ordini ricevuti
-
-    15. Il sistema deve permettere ad una tipologia di utente Produttore di
-        modificare lo stato di un Ordine riguardo la spedizione
-
-    16. Il sistema deve consentire ad un Consumatore di accedere alle
-        informazioni dell'Annuncio associato ad un Ordine effettuato
+>    1.  Il sistema deve consentire la registrazione allo stesso da parte di
+>        tipologie di utenti Consumatore e Produttore
+>
+>    2.  Il sistema deve consentire l'autenticazione allo stesso da parte di
+>        tipologie di utenti Consumatore e Produttore
+>
+>    3.  Il sistema deve consentire ad una tipologia di utente Produttore di
+>        creare, modificare ed eliminare i propri Annunci.
+>
+ >   4.  Il sistema deve consentire di impostare un Annuncio nello stato di
+  >      Privato, tale che non sia né acquistabile né consultabile
+>
+ >   5.  Il sistema deve consentire l'ispezione di un Annuncio pubblico
+  >      esclusivamente alla tipologia di utenti Consumatore
+>
+ >   6.  Il sistema deve consentire l'acquisto completo o parziale degli Annunci
+  >      esclusivamente da parte di Consumatori che abbiano associato almeno un
+   >     Indirizzo di Spedizione
+>
+ >   7.  Il sistema deve permettere ad un qualsiasi utente di effettuare una
+  >      ricerca fra gli Annunci specificando una parola chiave ed una categoria
+   >     opzionale
+> 8.  Il sistema deve permettere ad un Utente Registrato nel sistema di
+  >      effettuare una ricerca avanzata degli Annunci, specificando un prezzo
+   >     minimo e massimo
+>
+ >   9.  Il sistema deve permettere ad una tipologia di utente Consumatore di
+  >      inserire o modificare un Indirizzo di Spedizione associato, creando una
+   >     propria rubrica di Indirizzi di Spedizione
+>
+ >   10. Il sistema deve permettere ad una tipologia di utente Produttore di
+  >      modificare un proprio Annuncio che abbia già un ordine associato
+>
+ >   11. Il sistema deve prevedere che un utente Produttore abbia inserito il
+  >      proprio codice fiscale o partiva iva in fase di registrazione
+>
+ >   12. Il sistema deve permettere ad una tipologia di utente Consumatore di
+  >      visualizzare tutti i propri Ordini effettuati
+>
+ >   13. Il sistema deve prevedere meccanismi di consistenza in caso un Annuncio
+  >      venga modificato durante una fase di acquisto da parte di un utente
+   >     Consumatore
+>
+ >   14. Il sistema deve permettere ad una tipologia di utente Produttore di
+  >      visualizzare tutti i propri Ordini ricevuti
+>
+ >   15. Il sistema deve permettere ad una tipologia di utente Produttore di
+  >      modificare lo stato di un Ordine riguardo la spedizione
+>
+ >   16. Il sistema deve consentire ad un Consumatore di accedere alle
+  >      informazioni dell'Annuncio associato ad un Ordine effettuato
