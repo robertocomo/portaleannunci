@@ -16,7 +16,7 @@ sviluppato.
 
 ## Posizionamento
 
-    1.  **Scopo del Progetto**
+1.  **Scopo del Progetto**
 
 > Il committente chiede di sviluppare una piattaforma che consenta agli
 > utenti ad essa registrati di creare dei propri annunci di vendita
