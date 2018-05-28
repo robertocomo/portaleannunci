@@ -13,7 +13,7 @@ coinvolti ed interessati, associate alle esigenze primarie che questi hanno
 espresso in fase di definizione del progetto e alle relative funzionalità
 identificate e concordate facenti parte del sistema software commissionato e
 sviluppato.
-<br/>
+
 ## Posizionamento
 
 1.  **Scopo del Progetto**
@@ -36,7 +36,7 @@ sviluppato.
 > Il committente specifica che l'interazione e comunicazione fra gli
 > attori interessati e le funzionalità implementate dalla piattaforma
 > commissionata dovrà avvenire a mezzo di Web Application.
-<br/>
+
 2.  **Opportunità di Business**
 
 > Il contesto di utilizzo della piattaforma commissionata può essere
@@ -92,7 +92,7 @@ sviluppato.
 >    di collaborazioni e sponsorizzazioni derivanti dal patrimonio di
 >    marca ovverosia dall'affermazione del valore dell'asset immateriale
 >    del brand Portale Annunci.
-<br/>
+
 ##  **Glossario**
 
 3.  **Utente o Visitatore**
@@ -101,12 +101,12 @@ sviluppato.
 >dunque sia correttamente autenticato sulla stessa mediante proprie
 >credenziali di registrazione.
 
-<br/>
+
 4.  **Registrazione**
 >Procedura con la quale un Visitatore si registra alla piattaforma
 >scegliendo un ruolo, diventandone dunque parte integrante.
 
-<br/>
+
 5.  **Utente Registrato**
 >Rappresenta una persona che ha eseguito con successo la Registrazione al
 >sistema inserendo le informazioni richieste.
@@ -114,21 +114,21 @@ sviluppato.
 >Possiede delle proprie credenziali di accesso alla piattaforma e dunque
 >ne è parte integrante.
 
-<br/>
+
 6.  **Produttore**
 >Rappresenta una tipologia di Utente Registrato il quale ha accesso
 >esclusivo alla funzionalità di sottomissione di Annunci di vendita
 >personali, nonché gestione degli Ordini relativi ad Annunci
 >precedentemente inseriti.
 
-<br/>
+
 7.  **Consumatore**
 >
 >Rappresenta una tipologia di Utente Registrato il quale ha accesso
 >esclusivo alla funzionalità Acquisto di un Annuncio presente nel sistema
 >e finalizzazione di un Ordine, potendo dunque accedere alle informazioni
 >associate a quest'ultimo.
-<br/>
+
 8.  **Annuncio**
 >
 >Rappresenta un'astrazione del bene messo in vendita all'interno della
