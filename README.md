@@ -95,28 +95,24 @@ sviluppato.
 
 ##  **Glossario**
 
->3.  **Utente o Visitatore**
-
+3.  **Utente o Visitatore**
 >Un Visitatore, od altresì definito Utente, rappresenta un utilizzatore
 >del sistema o della piattaforma senza che questo ne faccia parte e che
 >dunque sia correttamente autenticato sulla stessa mediante proprie
 >credenziali di registrazione.
 
->4.  **Registrazione**
-
+4.  **Registrazione**
 >Procedura con la quale un Visitatore si registra alla piattaforma
 >scegliendo un ruolo, diventandone dunque parte integrante.
 
->5.  **Utente Registrato**
-
+5.  **Utente Registrato**
 >Rappresenta una persona che ha eseguito con successo la Registrazione al
 >sistema inserendo le informazioni richieste.
 >
 >Possiede delle proprie credenziali di accesso alla piattaforma e dunque
 >ne è parte integrante.
 
->6.  **Produttore**
->
+6.  **Produttore**
 >Rappresenta una tipologia di Utente Registrato il quale ha accesso
 >esclusivo alla funzionalità di sottomissione di Annunci di vendita
 >personali, nonché gestione degli Ordini relativi ad Annunci
