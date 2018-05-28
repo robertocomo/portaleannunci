@@ -1,4 +1,4 @@
-# Portale Annunci
+# *Portale Annunci*
 
 
 
@@ -93,7 +93,7 @@ sviluppato.
 >    di collaborazioni e sponsorizzazioni derivanti dal patrimonio di
 >    marca ovverosia dall'affermazione del valore dell'asset immateriale
 >    del brand Portale Annunci.
-\
+>
 
 
 ##  **Glossario**
