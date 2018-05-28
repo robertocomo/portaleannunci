@@ -184,82 +184,83 @@ sviluppato.
 
 ## **Stakeholder Requests & Needs**
 
-   1.  Meccanismo di registrazione al sistema
-
-   2.  Un Utente Registrato deve aver inserito il proprio nome, cognome, email
-        personale e una password
-
+>   1.  Meccanismo di registrazione al sistema
+>
+>   2.  Un Utente Registrato deve aver inserito il proprio nome, cognome, email
+>        personale e una password
+>
 >    3.  Un Produttore per potersi registrare nel sistema deve aver inserito il
 >        proprio codice fiscale o partita iva
 >
  >   4.  Meccanismo di autenticazione al sistema tramite delle credenziali di
  >       accesso personali
-
-    5.  Un Utente Registrato deve potersi autenticare mediante il proprio
-        indirizzo email e la password scelti in fase di registrazione
-
-    6.  Si deve poter creare ed inserire un nuovo Annuncio nel sistema
-
-    7.  Solo un utente Produttore può inserire nuovo Annuncio nel sistema
-
-    8.  Un utente Produttore deve poter modificare un proprio Annuncio
-
-    9.  Un utente Produttore deve poter eliminare un proprio Annuncio
-
-    10. Un Annuncio deve essere individuabile in modo univoco
-
-    11. Un Annuncio deve avere uno Stato associato previsto dal Sistema
-
-    12. Un Annuncio è in stato privato deve essere visualizzabile esclusivamente
-        dall’utente Produttore che lo ha creato
-
-    13. Un Annuncio deve avere una Categoria associata modellata dal sistema
-
-    14. Le possibili categorie dovranno essere “Abbigliamento”, “Arredamento”,
-        “Creatività”, “Elettronica”, “Libri”, “Musica”
-
-    15. Si deve poter ricercare gli Annunci presenti nel sistema inserendo una
-        chiave di ricerca per il titolo o per la descrizione
-
-    16. La funzionalità di ricerca deve essere accessibile anche ai Visitatori
-
-    17. Deve essere implementata una funzionalità di ricerca avanzata per gli
-        utenti Consumatori limitando i risultati per fascia di prezzo
-
-    18. Eseguendo una ricerca avanzata deve essere possibile ordinare i
-        risultati
-
-    19. La possibilità di ispezionare e guardare i dettagli di un Annuncio deve
-        essere limitata agli utenti di tipo Consumatore
-
-    20. Un utente Consumatore deve poter inserire nel proprio account uno o più
-        Indirizzi di Spedizione che saranno usati in fase di Acquisto
-
-    21. L’acquisto di un Annuncio, creando un Ordine, deve essere limitata
-        esclusivamente agli utenti Consumatori
-
-    22. Se un utente Consumatore non ha inserito alcun Indirizzo di Spedizione
-        non può effettuare un Acquisto
-
-    23. Un utente Consumatore deve poter visualizzare l’elenco dei propri
-        Acquisti effettuati e dunque Ordini associati
-
-    24. Un utente Produttore deve poter visualizzare l’elenco dei propri Ordini
-        ricevuti relativi ad Acquisti di propri Annunci
-
-    25. Le informazioni dell’Annuncio associato ad un Ordine devono essere
-        conservate in modo definitivo e consistente
-
-    26. Un utente Consumatore può effettuare Acquisti di Annunci effettivamente
-        presenti nel sistema
-
-    27. Il sistema deve essere sviluppato e scritto in linguaggio Java
-
-    28. L’interazione con il sistema da parte di tutti gli utilizzatori finali
-        dovrà essere tramite funzionalità accessibile come web applicazion
-
-    29. La web application deve essere sviluppata in modo responsive e dunque
-        essere usufruibile da qualsiasi dispositivo di accesso web
+>
+>    5.  Un Utente Registrato deve potersi autenticare mediante il proprio
+>        indirizzo email e la password scelti in fase di registrazione
+>
+>    6.  Si deve poter creare ed inserire un nuovo Annuncio nel sistema
+>
+>    7.  Solo un utente Produttore può inserire nuovo Annuncio nel sistema
+>
+>    8.  Un utente Produttore deve poter modificare un proprio Annuncio
+>
+>    9.  Un utente Produttore deve poter eliminare un proprio Annuncio
+>
+>    10. Un Annuncio deve essere individuabile in modo univoco
+>
+>    11. Un Annuncio deve avere uno Stato associato previsto dal Sistema
+>
+>    12. Un Annuncio è in stato privato deve essere visualizzabile esclusivamente
+>        dall’utente Produttore che lo ha creato
+>
+>    13. Un Annuncio deve avere una Categoria associata modellata dal sistema
+>
+>    14. Le possibili categorie dovranno essere “Abbigliamento”, “Arredamento”,
+>        “Creatività”, “Elettronica”, “Libri”, “Musica”
+>
+>    15. Si deve poter ricercare gli Annunci presenti nel sistema inserendo una
+>        chiave di ricerca per il titolo o per la descrizione
+>
+>    16. La funzionalità di ricerca deve essere accessibile anche ai Visitatori
+>
+>    17. Deve essere implementata una funzionalità di ricerca avanzata per gli
+>        utenti Consumatori limitando i risultati per fascia di prezzo
+>
+>    18. Eseguendo una ricerca avanzata deve essere possibile ordinare i
+>        risultati
+>
+>    19. La possibilità di ispezionare e guardare i dettagli di un Annuncio deve
+>        essere limitata agli utenti di tipo Consumatore
+>
+>    20. Un utente Consumatore deve poter inserire nel proprio account uno o più
+>        Indirizzi di Spedizione che saranno usati in fase di Acquisto
+>
+>    21. L’acquisto di un Annuncio, creando un Ordine, deve essere limitata
+>        esclusivamente agli utenti Consumatori
+>
+>    22. Se un utente Consumatore non ha inserito alcun Indirizzo di Spedizione
+>        non può effettuare un Acquisto
+>
+>    23. Un utente Consumatore deve poter visualizzare l’elenco dei propri
+>        Acquisti effettuati e dunque Ordini associati
+>
+>    24. Un utente Produttore deve poter visualizzare l’elenco dei propri Ordini
+>        ricevuti relativi ad Acquisti di propri Annunci
+>
+>    25. Le informazioni dell’Annuncio associato ad un Ordine devono essere
+>        conservate in modo definitivo e consistente
+>
+>    26. Un utente Consumatore può effettuare Acquisti di Annunci effettivamente
+>        presenti nel sistema
+>
+>    27. Il sistema deve essere sviluppato e scritto in linguaggio Java
+>
+>    28. L’interazione con il sistema da parte di tutti gli utilizzatori finali
+>        dovrà essere tramite funzionalità accessibile come web applicazion
+>
+>    29. La web application deve essere sviluppata in modo responsive e dunque
+>        essere usufruibile da qualsiasi dispositivo di accesso web
+>
 
 2.  **Features**
 
