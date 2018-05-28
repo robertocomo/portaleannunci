@@ -72,7 +72,7 @@ sviluppato.
 > affermazione di una piattaforma di intermediazione fra domanda ed
 > offerta di annunci di vendita, le quali possono essere classificate in
 > tre macro categorie:
-
+>
 >-   Prevedere che la piattaforma o parte di essa o delle funzionalità
 >    siano accessibili previo pagamento, che a sua volta può essere di
 >    tipologia una tantum per utente o tramite sottoscrizione di una
@@ -93,41 +93,41 @@ sviluppato.
 >    marca ovverosia dall'affermazione del valore dell'asset immateriale
 >    del brand Portale Annunci.
 
-3.  **Glossario**
+##  **Glossario**
 
-    3.  **Utente o Visitatore**
+>3.  **Utente o Visitatore**
+>
+>Un Visitatore, od altresì definito Utente, rappresenta un utilizzatore
+>del sistema o della piattaforma senza che questo ne faccia parte e che
+>dunque sia correttamente autenticato sulla stessa mediante proprie
+>credenziali di registrazione.
+>
+>4.  **Registrazione**
+>
+>Procedura con la quale un Visitatore si registra alla piattaforma
+>scegliendo un ruolo, diventandone dunque parte integrante.
+>
+>5.  **Utente Registrato**
+>
+>Rappresenta una persona che ha eseguito con successo la Registrazione al
+>sistema inserendo le informazioni richieste.
+>
+>Possiede delle proprie credenziali di accesso alla piattaforma e dunque
+>ne è parte integrante.
 
-Un Visitatore, od altresì definito Utente, rappresenta un utilizzatore
-del sistema o della piattaforma senza che questo ne faccia parte e che
-dunque sia correttamente autenticato sulla stessa mediante proprie
-credenziali di registrazione.
+>6.  **Produttore**
+>
+>Rappresenta una tipologia di Utente Registrato il quale ha accesso
+>esclusivo alla funzionalità di sottomissione di Annunci di vendita
+>personali, nonché gestione degli Ordini relativi ad Annunci
+>precedentemente inseriti.
 
-4.  **Registrazione**
-
-Procedura con la quale un Visitatore si registra alla piattaforma
-scegliendo un ruolo, diventandone dunque parte integrante.
-
-5.  **Utente Registrato**
-
-Rappresenta una persona che ha eseguito con successo la Registrazione al
-sistema inserendo le informazioni richieste.
-
-Possiede delle proprie credenziali di accesso alla piattaforma e dunque
-ne è parte integrante.
-
-6.  **Produttore**
-
-Rappresenta una tipologia di Utente Registrato il quale ha accesso
-esclusivo alla funzionalità di sottomissione di Annunci di vendita
-personali, nonché gestione degli Ordini relativi ad Annunci
-precedentemente inseriti.
-
-7.  **Consumatore**
-
-Rappresenta una tipologia di Utente Registrato il quale ha accesso
-esclusivo alla funzionalità Acquisto di un Annuncio presente nel sistema
-e finalizzazione di un Ordine, potendo dunque accedere alle informazioni
-associate a quest'ultimo.
+>7.  **Consumatore**
+>
+>Rappresenta una tipologia di Utente Registrato il quale ha accesso
+>esclusivo alla funzionalità Acquisto di un Annuncio presente nel sistema
+>e finalizzazione di un Ordine, potendo dunque accedere alle informazioni
+>associate a quest'ultimo.
 
 8.  **Annuncio**
 
